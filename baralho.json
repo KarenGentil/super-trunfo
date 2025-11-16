@@ -1,0 +1,8 @@
+[
+{"nome":"Dragão","imagem":"dragon.png","atributos":{"ataque":90,"defesa":80,"magia":70}},
+{"nome":"Fênix","imagem":"phoenix.png","atributos":{"ataque":85,"defesa":75,"magia":95}},
+{"nome":"Grifo","imagem":"griffin.png","atributos":{"ataque":80,"defesa":85,"magia":60}},
+{"nome":"Troll","imagem":"troll.png","atributos":{"ataque":70,"defesa":90,"magia":40}},
+{"nome":"Elfo","imagem":"elf.png","atributos":{"ataque":65,"defesa":60,"magia":85}},
+{"nome":"Orc","imagem":"orc.png","atributos":{"ataque":75,"defesa":70,"magia":50}}
+]
